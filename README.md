@@ -1,8 +1,8 @@
 # Components
 
-This team builds and maintains the components that create the access membrane to the Holochain experience.
+This team makes tools and apps that create and improve Holochain experiences.
 
-Our purpose is to inspire and empower all who encounter Holochain:
+Our purpose is to inspire and empower :
 - Developers
 - Community Members
 - App Enjoyers
