@@ -5,6 +5,7 @@
 Our purpose is to inspire and empower:
 - Developers
 - Community Members
+- App Publisher
 - App Enjoyers
 - Decentralists
 
